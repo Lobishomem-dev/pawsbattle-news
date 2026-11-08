@@ -3,8 +3,8 @@
   "news": [
     {
       "id": "welcome-001",
-      "title": "¡Bienvenido a las noticias de PawsBattle!",
-      "summary": "Aquí encontrarás actualizaciones y anuncios del juego.",
+      "title": "¡Bienvenido a PawsBattle!",
+      "summary": "Nos complace tenerte en el inicio de esta gran aventura",
       "body": "Pronto compartiremos novedades, cambios de balance y eventos.",
       "category": "announcement",
       "image": "",
