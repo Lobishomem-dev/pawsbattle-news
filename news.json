@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "news": [
+    {
+      "id": "welcome-001",
+      "title": "¡Bienvenido a las noticias de PawsBattle!",
+      "summary": "Aquí encontrarás actualizaciones y anuncios del juego.",
+      "body": "Pronto compartiremos novedades, cambios de balance y eventos.",
+      "category": "announcement",
+      "image": "",
+      "publishedAt": "2026-11-08T12:00:00Z",
+      "expiresAt": "",
+      "priority": 10,
+      "active": true
+    }
+  ]
+}
