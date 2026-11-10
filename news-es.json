@@ -12,6 +12,18 @@
       "expiresAt": "",
       "priority": 10,
       "active": true
+    },
+    {
+      "id": "play-with-friends",
+      "title": "Invita a jugar a tus amigos",
+      "summary": "Con el sistema de escuadrones puedes jugar online con tus amigos",
+      "body": "Invita a un amigo y unanse juntos a la batalla",
+      "category": "announcement",
+      "image": "https://lobishomem-dev.github.io/pawsbattle-news/images/PlayWithFriends.png",
+      "publishedAt": "2026-11-09T21:18:00Z",
+      "expiresAt": "",
+      "priority": 10,
+      "active": true
     }
   ]
 }
